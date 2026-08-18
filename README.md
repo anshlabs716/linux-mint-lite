@@ -75,17 +75,6 @@ The exact software included may change as the project develops.
 
 > ⚠️ This project is a customization of Linux Mint rather than a completely independent Linux distribution.
 
----
-
-## 🚧 Development Status
-
-**Linux Mint Lite is an experimental project and is still being developed.**
-
-The project may change over time as more applications are reviewed and unnecessary components are removed.
-
-Some parts may be incomplete or require additional testing.
-
----
 
 ## 🧪 Testing
 
