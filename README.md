@@ -14,6 +14,18 @@
 
 ---
 
+## 📑 Table of Contents
+
+  - [⚡ A Lightweight Linux Mint XFCE Setup](#-a-lightweight-linux-mint-xfce-setup)
+- [📖 About](#-about)
+- [✨ Features](#-features)
+- [🎯 Philosophy](#-philosophy)
+  - [**No Bloat. No Fluff.**](#no-bloat-no-fluff)
+- [🖥️ Desktop Environment](#-desktop-environment)
+- [📦 What's Included](#-whats-included)
+- [🧪 Testing](#-testing)
+- [📁 Project Files](#-project-files)
+
 ## 📖 About
 
 **Linux Mint Lite** is a lightweight version of **Linux Mint XFCE** with unnecessary applications and bloat removed.
