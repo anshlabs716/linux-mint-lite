@@ -2,8 +2,6 @@
 
 High-level structure of Linux Mint Lite.
 
-# Architecture
-
 This page describes the high-level structure of Linux Mint Lite. It is a starting
 point and is updated as the implementation evolves.
 
@@ -13,7 +11,7 @@ Linux Mint Lite
 
 ## Main components
 
-- `**Linux Mint XFCE** packages and distribution repositories`
+- **Linux Mint XFCE** packages and distribution repositories
 
 ## Data flow
 

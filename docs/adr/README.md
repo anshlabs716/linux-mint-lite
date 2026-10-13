@@ -2,8 +2,6 @@
 
 Architecture decision records for Linux Mint Lite.
 
-# Architecture Decision Records
-
 This directory records significant architecture decisions for Linux Mint Lite.
 
 ## What is an ADR?

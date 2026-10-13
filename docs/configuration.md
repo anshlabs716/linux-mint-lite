@@ -2,8 +2,6 @@
 
 How to configure Linux Mint Lite.
 
-# Configuration
-
 Reference for configuring Linux Mint Lite.
 
 ## Where configuration lives
