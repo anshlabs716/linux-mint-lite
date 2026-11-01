@@ -1,4 +1,6 @@
-# 🐧 Linux Mint Lite
+# 🐧 Linux Mint Lite (WARNING this might be outdated by the time you use create and issue to update it which i will or run ```bash
+sudo apt update && sudo apt upgrade
+```   
 
 <div align="center">
 
