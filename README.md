@@ -88,7 +88,6 @@ The exact software included may change as the project develops.
 
 > ⚠️ This project is a customization of Linux Mint rather than a completely independent Linux distribution.
 
-
 ---
 
 ## 🔄 Updates
@@ -102,8 +101,6 @@ sudo apt update && sudo apt upgrade
 ```
 
 > **Note:** This updates packages on your installed system. It does not automatically update the Linux Mint Lite project files or ISO.
-
-
 
 ## 🧪 Testing
 
@@ -119,35 +116,6 @@ Hardware compatibility may vary.
 
 ---
 
-## 📁 Project Files
-
-```text
-linux-mint-lite/
-├── .editorconfig
-├── .gitattributes
-├── .github/
-├── .gitignore
-├── .markdownlint-cli2.jsonc
-├── CHANGELOG.md
-├── CITATION.cff
-├── CODE_OF_CONDUCT.md
-├── COMPATIBILITY.md
-├── CONTRIBUTING.md
-├── docs/
-├── LICENSE
-├── Link to the file
-├── README.md
-├── SECURITY.md
-├── SUPPORT.md
-├── THIRD_PARTY_NOTICES.md
-```
-
-
-```text
-linux-mint-lite/
-├── Link to the file
-└── README.md
-
 ---
 
 ## 📁 Project Files
@@ -164,11 +132,11 @@ linux-mint-lite/
 ├── CODE_OF_CONDUCT.md
 ├── COMPATIBILITY.md
 ├── CONTRIBUTING.md
-├── docs/
 ├── LICENSE
 ├── Link to the file
 ├── README.md
 ├── SECURITY.md
 ├── SUPPORT.md
-└── THIRD_PARTY_NOTICES.md
+├── THIRD_PARTY_NOTICES.md
+└── docs/
 ```
