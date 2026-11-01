@@ -123,5 +123,27 @@ Hardware compatibility may vary.
 
 ```text
 linux-mint-lite/
+├── .editorconfig
+├── .gitattributes
+├── .github/
+├── .gitignore
+├── .markdownlint-cli2.jsonc
+├── CHANGELOG.md
+├── CITATION.cff
+├── CODE_OF_CONDUCT.md
+├── COMPATIBILITY.md
+├── CONTRIBUTING.md
+├── docs/
+├── LICENSE
+├── Link to the file
+├── README.md
+├── SECURITY.md
+├── SUPPORT.md
+├── THIRD_PARTY_NOTICES.md
+```
+
+
+```text
+linux-mint-lite/
 ├── Link to the file
 └── README.md
