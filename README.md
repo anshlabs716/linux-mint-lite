@@ -125,6 +125,22 @@ linux-mint-lite/
 ├── .editorconfig
 ├── .gitattributes
 ├── .github/
+│   ├── CODEOWNERS
+│   ├── CONTRIBUTING.md
+│   ├── ISSUE_TEMPLATE/
+│   │   ├── bug_report.yml
+│   │   ├── config.yml
+│   │   ├── feature_request.yml
+│   │   └── question.yml
+│   ├── PULL_REQUEST_TEMPLATE.md
+│   ├── release.yml
+│   └── workflows/
+│       ├── build-validation.yml
+│       ├── ci.yml
+│       ├── links.yml
+│       ├── markdown-lint.yml
+│       ├── release.yml
+│       └── security.yml
 ├── .gitignore
 ├── .markdownlint-cli2.jsonc
 ├── CHANGELOG.md
@@ -132,11 +148,33 @@ linux-mint-lite/
 ├── CODE_OF_CONDUCT.md
 ├── COMPATIBILITY.md
 ├── CONTRIBUTING.md
+├── docs/
+│   ├── adr/
+│   │   └── README.md
+│   ├── architecture.md
+│   ├── building.md
+│   ├── configuration.md
+│   ├── customization.md
+│   ├── dependencies.md
+│   ├── development.md
+│   ├── faq.md
+│   ├── index.md
+│   ├── installation.md
+│   ├── licensing.md
+│   ├── overview.md
+│   ├── package-selection.md
+│   ├── releasing.md
+│   ├── reproducible-builds.md
+│   ├── system-requirements.md
+│   ├── testing.md
+│   ├── third-party-dependencies.md
+│   ├── troubleshooting.md
+│   └── updating.md
 ├── LICENSE
 ├── Link to the file
 ├── README.md
 ├── SECURITY.md
 ├── SUPPORT.md
-├── THIRD_PARTY_NOTICES.md
-└── docs/
+└── THIRD_PARTY_NOTICES.md
 ```
+
