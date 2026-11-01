@@ -1,6 +1,4 @@
-# 🐧 Linux Mint Lite (WARNING this might be outdated by the time you use create and issue to update it which i will or run ```bash
-sudo apt update && sudo apt upgrade
-```   
+# 🐧 Linux Mint Lite
 
 <div align="center">
 
@@ -25,6 +23,7 @@ sudo apt update && sudo apt upgrade
   - [**No Bloat. No Fluff.**](#no-bloat-no-fluff)
 - [🖥️ Desktop Environment](#-desktop-environment)
 - [📦 What's Included](#-whats-included)
+- [🔄 Updates](#-updates)
 - [🧪 Testing](#-testing)
 - [📁 Project Files](#-project-files)
 
@@ -88,6 +87,22 @@ The project is based on Linux Mint XFCE with unnecessary applications removed.
 The exact software included may change as the project develops.
 
 > ⚠️ This project is a customization of Linux Mint rather than a completely independent Linux distribution.
+
+
+---
+
+## 🔄 Updates
+
+**This project may become outdated over time.** If you notice outdated packages, instructions, or project information, please [open an issue](https://github.com/anshlabs716/linux-mint-lite/issues) so I can review it and make updates.
+
+If you already have Linux Mint Lite installed, you can refresh your package lists and upgrade installed packages with:
+
+```bash
+sudo apt update && sudo apt upgrade
+```
+
+> **Note:** This updates packages on your installed system. It does not automatically update the Linux Mint Lite project files or ISO.
+
 
 
 ## 🧪 Testing
